@@ -1,14 +1,26 @@
-layout_spectrum: 0.7276250664144754
-typography_spectrum: 0.1433059263508767
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.814235707744956
-  lightness: 0.502529667224735
-  saturation: 0.6181357926689088
-  rhythmicContrast: 0.08606391586363316
+  saturation: 0.7795699
+  brandStrength: 0.8369176
+  lightness: 0.2150538
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#FFFFFF'
+    - '#E83D00'
+    - '#2D1F19'
+    - '#C38070'
+    - '#6D6551'
+  rhythmicContrast: 0.3100359
+typography_spectrum: 0.327957
+layout_spectrum: 1
 name: pniyomsilp
